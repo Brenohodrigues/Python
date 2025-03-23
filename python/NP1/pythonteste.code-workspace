@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ana PS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ana PS"
+	}
+}
